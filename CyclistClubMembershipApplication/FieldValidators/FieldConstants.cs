@@ -8,7 +8,9 @@ namespace CyclistClubMembershipApplication.FieldValidators
             FirstName,
             LastName,
             PhoneNumber,
-            DateOfBirth
+            DateOfBirth,
+            PasswordCompare,
+            Password
         }
     }
 }
